@@ -135,18 +135,16 @@ compound-wallet-risk-scoring/
 ```
 
 ---
-
-## 🙋‍♂️ About
-
-By [Your Name]  
-Built as a portfolio project for Zeru AI’s DeFi internship round.  
-*Feedback and questions are always welcome!*
+🙋‍♂️ About
+Hi, I’m Jayesh Kamble!
+This repo is my solution for Zeru AI’s DeFi wallet risk scoring challenge.
+Questions, feedback, or just want to chat about DeFi? Reach out anytime!
 
 ---
 
 ## 📧 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- [GitHub](https://github.com/Jayesh-Kamble/compound-wallet-risk-scoring)  
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jayesh-kamble-/))  
+
 
 > Analyzing wallet risk is essential for safe, scalable DeFi. Thanks for reviewing!
