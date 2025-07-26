@@ -143,6 +143,6 @@ Questions, feedback, or just want to chat about DeFi? Reach out anytime!
 ---
 
 ## 📧 Contact
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/jayesh-kamble-/)) 
+- [LinkedIn]((https://www.linkedin.com/in/jayesh-kamble-/)) 
 
 > Analyzing wallet risk is essential for safe, scalable DeFi. Thanks for reviewing!
