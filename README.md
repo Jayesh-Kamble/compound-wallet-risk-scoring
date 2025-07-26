@@ -98,7 +98,36 @@ Inactive wallets default to a low score.
 ---
 
 ## 📝 Example Output
+
 <img width="549" height="460" alt="image" src="https://github.com/user-attachments/assets/6541ea14-075e-4180-9d30-dc462fc10cb5" />
+
+---
+
+## 📊 Visualizations
+
+Below are some visual insights from the computed wallet risk scores:
+
+### 🔹 1. Distribution of Wallet Risk Scores
+
+Shows how risk scores are distributed across wallets — most wallets are low-risk, with a few outliers.
+
+![Distribution of Wallet Risk Scores](./data/1.png)
+
+---
+
+### 🔹 2. Boxplot of Wallet Risk Scores
+
+Highlights the presence of outliers and the spread of risk scores in a single visual.
+
+![Boxplot of Wallet Risk Scores](./data/2.png)
+
+---
+
+### 🔹 3. Top 5 and Bottom 5 Wallet Risk Scores
+
+Compares the riskiest and least risky wallets based on their score. A helpful visual to identify extremes.
+
+![Top and Bottom Wallet Risk Scores](./data/3.png)
 
 ---
 
@@ -125,10 +154,14 @@ compound-wallet-risk-scoring/
 ├── .gitignore
 ├── README.md
 ├── data/
-│   └── wallets.txt
+│   ├── wallets.txt
+│   ├── 1.png
+│   ├── 2.png
+│   └── 3.png
 └── wallet_risk_scores.csv
 ```
 
+---
 
 ## 🙋‍♂️ About
 
