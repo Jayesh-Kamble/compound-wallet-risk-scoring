@@ -153,7 +153,6 @@ compound-wallet-risk-scoring/
 ├── compute_features.py
 ├── risk_scorer.py
 ├── requirements.txt
-├── .env.example
 ├── .gitignore
 ├── README.md
 ├── data/
