@@ -111,7 +111,8 @@ Below are some visual insights from the computed wallet risk scores:
 
 Shows how risk scores are distributed across wallets — most wallets are low-risk, with a few outliers.
 
-![Distribution of Wallet Risk Scores](./data/1.png)
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/2b75a2a0-56a6-4359-b2d0-47d89479ed8d" />
+
 
 ---
 
@@ -119,7 +120,8 @@ Shows how risk scores are distributed across wallets — most wallets are low-ri
 
 Highlights the presence of outliers and the spread of risk scores in a single visual.
 
-![Boxplot of Wallet Risk Scores](./data/2.png)
+<img width="790" height="390" alt="image" src="https://github.com/user-attachments/assets/7916621e-ed3f-4bbe-8c9d-876b8f720f54" />
+
 
 ---
 
@@ -127,7 +129,8 @@ Highlights the presence of outliers and the spread of risk scores in a single vi
 
 Compares the riskiest and least risky wallets based on their score. A helpful visual to identify extremes.
 
-![Top and Bottom Wallet Risk Scores](./data/3.png)
+<img width="1181" height="590" alt="image" src="https://github.com/user-attachments/assets/4f08d5af-f284-48ca-a3be-1b936e82acfb" />
+
 
 ---
 
