@@ -158,9 +158,7 @@ compound-wallet-risk-scoring/
 ├── README.md
 ├── data/
 │   ├── wallets.txt
-│   ├── 1.png
-│   ├── 2.png
-│   └── 3.png
+│ 
 └── wallet_risk_scores.csv
 ```
 
