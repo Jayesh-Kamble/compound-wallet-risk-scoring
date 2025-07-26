@@ -68,7 +68,7 @@ This project calculates a simple, data-driven risk score for 100+ Ethereum walle
 
 ### Data Collection
 
-- Alchemy `getAssetTransfers` endpoint is used to retrieve ERC20/external/internal txs involving Compound V2 controller and main cTokens.
+- Alchemy `getAssetTransfers` endpoint is used to retrieve ERC20/external/internal transactions involving Compound V2 controller and main cTokens.
 
 ### Feature Selection
 
@@ -98,21 +98,17 @@ Inactive wallets default to a low score.
 ---
 
 ## 📝 Example Output
-
-| wallet_id                                  | score |
-|-------------------------------------------|-------|
-| 0xfaa0768bde629806739c3a4620656c5d26f44ef2 | 732   |
-| 0x13b1c8b0e696aff8b4fee742119b549b605f3cbc | 230   |
-| ...                                       | ...   |
+<img width="549" height="460" alt="image" src="https://github.com/user-attachments/assets/6541ea14-075e-4180-9d30-dc462fc10cb5" />
 
 ---
 
-## 📈 Improvements/Future Work
+## 📈 Improvements / Future Work
 
 - Separate supply, borrow, and redeem events for deeper risk profiling  
 - Add health factor/liquidation signals from richer subgraph data  
 - Incorporate time-weighted recency (recent actions more relevant)  
 - Compare scores to actual risk events or performance  
+- Add visualizations (e.g., distribution of scores, asset heatmap)
 
 ---
 
@@ -131,18 +127,20 @@ compound-wallet-risk-scoring/
 ├── data/
 │   └── wallets.txt
 └── wallet_risk_scores.csv
-
 ```
 
----
-🙋‍♂️ About
-Hi, I’m Jayesh Kamble!
-This repo is my solution for Zeru AI’s DeFi wallet risk scoring challenge.
+
+## 🙋‍♂️ About
+
+Hi, I’m Jayesh Kamble!  
+This repo is my solution for Zeru AI’s DeFi wallet risk scoring challenge.  
 Questions, feedback, or just want to chat about DeFi? Reach out anytime!
 
 ---
 
 ## 📧 Contact
-- [LinkedIn]((https://www.linkedin.com/in/jayesh-kamble-/)) 
+
+- [LinkedIn](https://www.linkedin.com/in/jayesh-kamble-/)
+- [GitHub](https://github.com/Jayesh-Kamble/)
 
 > Analyzing wallet risk is essential for safe, scalable DeFi. Thanks for reviewing!
